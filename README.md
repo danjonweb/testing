@@ -10,4 +10,4 @@ Create a folder structure that looks like this:
 * Test 1/questions.txt
 * Test 2/questions.txt
 
-Open the index.html file and edit the <title> tag to specificy which test folder to use and which version of the test to generate. For example, if you set the title to "Test 1.1", it will use the Test 1 folder and generate version 1. If you set it to "Test 1.2", it will use the Test 1 folder and generate version 2.
+Open the index.html file and edit the `<title>` tag to specificy which test folder to use and which version of the test to generate. For example, if you set the title to "Test 1.1", it will use the Test 1 folder and generate version 1. If you set it to "Test 1.2", it will use the Test 1 folder and generate version 2.
